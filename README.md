@@ -1,77 +1,106 @@
-## Hey there 👋, I'm [Mahmud!](https://github.com/MahmudAze/)
+# Hey, I'm Mahmud 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmud-rahimli/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mahmud.rahimli/)
+I'm an Information Security student at Azerbaijan Technical University who sits at the crossroads of **offensive security** and **backend development**. I build secure systems, compete in CTFs, and think about how things break — then build them better.
 
-### Glad to see you here! 
-Hi Everyone. I am an aspiring Penetration Tester. I enjoy learn everything in IT field including Networking, Programming, Security and etc.
+🏆 Named **1st place winner** in a national cybersecurity competition by the [Special Communication & Information Security State Service of Azerbaijan](https://scis.gov.az) — assessed by a government agency, awarded at a ceremony attended by the Deputy Chief (Major General) and the University Rector.
 
+---
 
-Like My Work?
+## What I Do
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+```
+Penetration Testing & CTFs    ████████████░░   Active competitor
+Secure Backend Development    ███████████░░░   ASP.NET · REST · JWT
+Python & Data Scripting       █████████░░░░░   Automation · Analysis
+Networking & Infrastructure   ████████░░░░░░   Cisco Certified x2
+```
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+---
 
-### Talking about Personal Stuff:
+## Tech Stack
 
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: root.mahmud@outlook.com.
+**Security**
+`Kali Linux` `Burp Suite` `Nmap` `Metasploit` `Wireshark` `OWASP Top 10` `Active Directory`
 
-### My Absolute Favorites:
+**Backend & Dev**
+`ASP.NET Web API` `C#` `React` `Flask` `FastAPI` `JWT Auth` `RBAC` `SQLite` `SQL`
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+**Languages**
+`C#` `Python` `C++` `JavaScript` `SQL`
 
-### Languages and Tools:
+**Infrastructure & Tools**
+`Azure` `AWS EC2` `Git` `GitHub` `Active Directory` `Mendix` `Jupyter` `VS Code`
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+---
 
-### Projects and Dev Stuffs:
+## Featured Projects
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
+### 🔐 [PICT CTF — Jeopardy Platform](https://calm-bay-089a9f203.4.azurestaticapps.net/)
+> Full-stack CTF competition platform. Built solo. Deployed live on Azure.
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+- **Backend:** ASP.NET Web API (RESTful, JSON)
+- **Frontend:** React
+- **Auth:** JWT-based authentication + role-based authorization (player / admin)
+- **Features:** Admin panel for challenge & user management, live scoring, device-independent access
+- **Status:** 🟢 Live
 
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
+---
 
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
+### 🌍 [NASA Space Apps — Seismic Detection Across the Solar System](https://www.spaceappschallenge.org/)
+> Processed real NASA mission data to detect seismic events on Mars. Awarded **Galactic Problem Solver** certificate by NASA Program Scientist Dr. Keith Gaddis.
 
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> HP Envy</li>
-  	    <li><b>Browser: </b> Brave</li>
-	    <li><b>Terminal: </b> Linux Bash</li>
-	    <li><b>Code Editor:</b> Visual Studio - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Kali Linux</li>
-	    <li><b>To Stay Updated:</b> Linkedin and Hacker News</li>
-	</ul>
-</details>
+- **Stack:** Python · Pandas · Matplotlib · SciPy
+- **What I did:** Applied a high-pass Butterworth filter to MSEED & CSV files from the InSight Mars mission, removing radiation noise and identifying **11 potential seismic events**
+- **Recognized by:** NASA, ESA, JAXA + 10 other space agencies
 
-#
+---
 
-<div align="center">
+### 🌱 Farm+ — Smart Agriculture Platform *(Siemens & ERP Systems Hackathon)*
+> Designed and pitched a freemium SaaS platform to reduce agricultural water waste (40%) and crop yield loss (15–25%). Backed by OECD and State Statistics data.
 
-### Show some ❤️ by starring some of the repositories!
+- Full product concept: IoT field management · smart scheduling · digital journaling · tiered business model
+- **Stack:** Concept + research-backed pitch deck
 
-</div>
+---
+
+## Competitions & Awards
+
+| Event | Result | Year |
+|---|---|---|
+| 🏆 SCIS National Cybersecurity Competition | **1st Place** — top winner among all AzTU students | 2025 |
+| 🎯 NovruzCTF 2026 | **#50 / 366 teams · #39 / 554 players** (top 14%) | 2026 |
+| 🚀 NASA International Space Apps Challenge | Galactic Problem Solver Award | 2024 |
+| 💻 ICPC South Caucasus Regional | Advanced to **1/4 finals** (top 25%) | 2024 & 2025 |
+| 🔒 CIDC-2025 | Hardware Security & Pentesting Masterclass | 2025 |
+| 🔑 N3XT L3V3L CTF | Solo · Cryptography track | 2025 |
+
+---
+
+## Certifications
+
+- 🛡️ **Cisco Certified Support Technician — Cybersecurity**
+- 🌐 **Cisco Certified Support Technician — Networking**
+- 📋 **ISO/IEC 27001 Foundations** — Infra Audit & AzTU Cybersecurity Dept.
+- 🎓 **Mendix Rapid Developer**
+
+---
+
+## Currently Working On
+
+- 🔧 Expanding PICT CTF with new challenge categories and a public leaderboard
+- 📚 Deepening practical penetration testing skills — web app exploitation & Active Directory attacks
+- 🎯 Preparing for the next CTF season
+
+---
+
+## Let's Connect
+
+I'm actively looking for **IT internships and junior roles** in security or development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmud--rahimli-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmud-rahimli/)
+[![Email](https://img.shields.io/badge/Email-root.mahmud@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:root.mahmud@outlook.com)
+[![CTF Platform](https://img.shields.io/badge/Live%20Project-PICT%20CTF-1A5276?style=flat-square&logo=azure-devops&logoColor=white)](https://calm-bay-089a9f203.4.azurestaticapps.net/)
+
+---
+
+*Open to opportunities in Baku or remote. Available from 2026.*
