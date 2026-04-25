@@ -29,7 +29,7 @@ Networking & Infrastructure   ████████░░░░░░   Cisco
 `C#` `Python` `C++` `JavaScript` `SQL`
 
 **Infrastructure & Tools**
-`Azure` `AWS EC2` `Git` `GitHub` `Active Directory` `Mendix` `Jupyter` `VS Code`
+`Azure` `Git` `GitHub` `Mendix` `Jupyter`
 
 ---
 
@@ -70,7 +70,7 @@ Networking & Infrastructure   ████████░░░░░░   Cisco
 | 🏆 SCIS National Cybersecurity Competition | **1st Place** — top winner among all AzTU students | 2025 |
 | 🎯 NovruzCTF 2026 | **#50 / 366 teams · #39 / 554 players** (top 14%) | 2026 |
 | 🚀 NASA International Space Apps Challenge | Galactic Problem Solver Award | 2024 |
-| 💻 ICPC South Caucasus Regional | Advanced to **1/4 finals** (top 25%) | 2024 & 2025 |
+| 💻 ICPC Azerbaijan Regional | Advanced to **1/4 finals** (top 25%) | 2024 & 2025 |
 | 🔒 CIDC-2025 | Hardware Security & Pentesting Masterclass | 2025 |
 | 🔑 N3XT L3V3L CTF | Solo · Cryptography track | 2025 |
 
@@ -88,7 +88,7 @@ Networking & Infrastructure   ████████░░░░░░   Cisco
 ## Currently Working On
 
 - 🔧 Expanding PICT CTF with new challenge categories and a public leaderboard
-- 📚 Deepening practical penetration testing skills — web app exploitation & Active Directory attacks
+- 📚 Deepening practical penetration testing skills — web app exploitation
 - 🎯 Preparing for the next CTF season
 
 ---
@@ -98,7 +98,7 @@ Networking & Infrastructure   ████████░░░░░░   Cisco
 I'm actively looking for **IT internships and junior roles** in security or development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmud--rahimli-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmud-rahimli/)
-[![Email](https://img.shields.io/badge/Email-root.mahmud@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:root.mahmud@outlook.com)
+[![Email](https://img.shields.io/badge/Email-mahmudrahimli@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmudrahimli@outlook.com)
 [![CTF Platform](https://img.shields.io/badge/Live%20Project-PICT%20CTF-1A5276?style=flat-square&logo=azure-devops&logoColor=white)](https://calm-bay-089a9f203.4.azurestaticapps.net/)
 
 ---
