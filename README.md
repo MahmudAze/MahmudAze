@@ -1,39 +1,44 @@
 # Hey, I'm Mahmud 👋
 
-I'm an Information Security student at Azerbaijan Technical University who sits at the crossroads of **offensive security** and **backend development**. I build secure systems, compete in CTFs, and think about how things break — then build them better.
+I'm a 3rd-year Information Security student at Azerbaijan Technical University with a core focus on **Offensive Security, Penetration Testing, and Vulnerability Research**. I combine a strong backend developer background (.NET, Python) with a hacker mindset to understand complex system architectures, find their weaknesses, and chain vulnerabilities.
 
-🏆 Named **1st place winner** in a national cybersecurity competition by the [Special Communication & Information Security State Service of Azerbaijan](https://scis.gov.az) — assessed by a government agency, awarded at a ceremony attended by the Deputy Chief (Major General) and the University Rector.
+🏆 **1st Place Winner** at the National Cybersecurity Competition by the [Special Communication & Information Security State Service of Azerbaijan (SCIS)](https://scis.gov.az).
 
 ---
 
 ## What I Do
-
+```text
+Offensive Security & Pentesting  ████████████░░   Web Apps, AD, Networks
+Homelab & Vuln Research          ███████████░░░   PortSwigger, TryHackMe
+Security Automation & Scripting  █████████░░░░░   Python, Bash
+Secure System Architecture       ████████░░░░░░   ASP.NET, API Security
 ```
-Penetration Testing & CTFs    ████████████░░   Active competitor
-Secure Backend Development    ███████████░░░   ASP.NET · REST · JWT
-Python & Data Scripting       █████████░░░░░   Automation · Analysis
-Networking & Infrastructure   ████████░░░░░░   Cisco Certified x2
-```
-
 ---
 
 ## Tech Stack
 
-**Security**
-`Kali Linux` `Burp Suite` `Nmap` `Metasploit` `Wireshark` `OWASP Top 10` `Active Directory`
+**Offensive Security & Tools**
+`Burp Suite` `BloodHound` `Nmap` `Metasploit` `Wireshark` `Kali Linux`
 
-**Backend & Dev**
-`ASP.NET Web API` `C#` `React` `Flask` `FastAPI` `JWT Auth` `RBAC` `SQLite` `SQL`
+**Core Concepts**
+`Web App Security` `Active Directory Exploitation` `Kerberos` `OSINT` `OWASP Top 10`
 
-**Languages**
-`C#` `Python` `C++` `JavaScript` `SQL`
+**Scripting & Development**
+`Bash` `Python` `C# (.NET)` `C++` `JavaScript` `SQL`
 
-**Infrastructure & Tools**
-`Azure` `Git` `GitHub` `Mendix` `Jupyter`
+**Infrastructure**
+`Linux` `Windows Server` `TCP/IP & DNS` `Azure`
 
 ---
 
-## Featured Projects
+## Featured Research & Projects
+
+### Active Directory & Web Security Homelab
+Independent vulnerability research and attack simulation in controlled environments.
+
+- **Active Directory:** Provisioned Windows Server domains to exploit Kerberos vulnerabilities (e.g., AS-REP Roasting) and mapped attack paths using **BloodHound**.
+- **Web App Pentesting:** Executed advanced HTTP/HTTPS traffic manipulation and vulnerability chaining (SQLi, XSS, SSRF, IDOR) using **Burp Suite.**
+- **Automation:** Developed custom **Python and Bash** scripts to automate OSINT collection and streamline network reconnaissance (Nmap).
 
 ### 🔐 [PICT CTF — Jeopardy Platform](https://calm-bay-089a9f203.4.azurestaticapps.net/)
 > Full-stack CTF competition platform. Built solo. Deployed live on Azure.
@@ -95,7 +100,7 @@ Networking & Infrastructure   ████████░░░░░░   Cisco
 
 ## Let's Connect
 
-I'm actively looking for **IT internships and junior roles** in security or development.
+I'm actively looking for **Cybersecurity and Offensive Security internships** where I can apply my skills in penetration testing, vulnerability research, and technical reporting.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmud--rahimli-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmud-rahimli/)
 [![Email](https://img.shields.io/badge/Email-mahmudrahimli@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmudrahimli@outlook.com)
@@ -103,4 +108,4 @@ I'm actively looking for **IT internships and junior roles** in security or deve
 
 ---
 
-*Open to opportunities in Baku or remote. Available from 2026.*
+*Based in Baku, Azerbaijan.*
