@@ -105,6 +105,7 @@ I'm actively looking for **Cybersecurity and Offensive Security internships** wh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmud--rahimli-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmud-rahimli/)
 [![Email](https://img.shields.io/badge/Email-mahmudrahimli@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmudrahimli@outlook.com)
 [![CTF Platform](https://img.shields.io/badge/Live%20Project-PICT%20CTF-1A5276?style=flat-square&logo=azure-devops&logoColor=white)](https://calm-bay-089a9f203.4.azurestaticapps.net/)
+[![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MahmudAze)]
 
 ---
 
