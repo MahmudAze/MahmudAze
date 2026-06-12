@@ -40,7 +40,7 @@ Independent vulnerability research and attack simulation in controlled environme
 - **Web App Pentesting:** Executed advanced HTTP/HTTPS traffic manipulation and vulnerability chaining (SQLi, XSS, SSRF, IDOR) using **Burp Suite.**
 - **Automation:** Developed custom **Python and Bash** scripts to automate OSINT collection and streamline network reconnaissance (Nmap).
 
-### 🔐 [PICT CTF — Jeopardy Platform](https://calm-bay-089a9f203.4.azurestaticapps.net/)
+### 🔐 PICT CTF — Jeopardy Platform
 > Full-stack CTF competition platform. Built solo. Deployed live on Azure.
 
 - **Backend:** ASP.NET Web API (RESTful, JSON)
@@ -72,6 +72,7 @@ Independent vulnerability research and attack simulation in controlled environme
 
 | Event | Result | Year |
 |---|---|---|
+| AzTU CTF | Solved Cryptograhy, Web Pentesting, Reverse Engineering challenges | 2026 |
 | 🏆 SCIS National Cybersecurity Competition | **1st Place** — top winner among all AzTU students | 2025 |
 | 🎯 NovruzCTF 2026 | **#50 / 366 teams · #39 / 554 players** (top 14%) | 2026 |
 | 🚀 NASA International Space Apps Challenge | Galactic Problem Solver Award | 2024 |
@@ -82,19 +83,11 @@ Independent vulnerability research and attack simulation in controlled environme
 ---
 
 ## Certifications
-
+- **Software Engineering Honour Diploma - Code Academy**
 - 🛡️ **Cisco Certified Support Technician — Cybersecurity**
 - 🌐 **Cisco Certified Support Technician — Networking**
 - 📋 **ISO/IEC 27001 Foundations** — Infra Audit & AzTU Cybersecurity Dept.
 - 🎓 **Mendix Rapid Developer**
-
----
-
-## Currently Working On
-
-- 🔧 Expanding PICT CTF with new challenge categories and a public leaderboard
-- 📚 Deepening practical penetration testing skills — web app exploitation
-- 🎯 Preparing for the next CTF season
 
 ---
 
@@ -104,7 +97,6 @@ I'm actively looking for **Cybersecurity and Offensive Security internships** wh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmud--rahimli-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmud-rahimli/)
 [![Email](https://img.shields.io/badge/Email-mahmudrahimli@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmudrahimli@outlook.com)
-[![CTF Platform](https://img.shields.io/badge/Live%20Project-PICT%20CTF-1A5276?style=flat-square&logo=azure-devops&logoColor=white)](https://calm-bay-089a9f203.4.azurestaticapps.net/)
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MahmudAze)
 
 ---
