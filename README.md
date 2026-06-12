@@ -41,7 +41,6 @@ Independent vulnerability research and attack simulation in controlled environme
 - **Automation:** Developed custom **Python and Bash** scripts to automate OSINT collection and streamline network reconnaissance (Nmap).
 
 ### 🔐 PICT CTF — Jeopardy Platform
-> Full-stack CTF competition platform. Built solo. Deployed live on Azure.
 
 - **Backend:** ASP.NET Web API (RESTful, JSON)
 - **Frontend:** React
