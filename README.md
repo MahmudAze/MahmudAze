@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmud-rahimli/">
+  <a href="https://www.linkedin.com/in/mahmud-rahimli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://tryhackme.com/p/Mahmud17">
+  <a href="https://tryhackme.com/p/Mahmud17" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://app.hackthebox.com/users/2181731">
+  <a href="https://app.hackthebox.com/users/2181731" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">
   </a>
 </p>
