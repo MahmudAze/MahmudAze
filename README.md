@@ -28,6 +28,7 @@ I secure code before attackers do.
 
 - 🎯 &nbsp;Actively competing on HackTheBox
 - 📚 &nbsp;Currently studying: Offensive Security · Web Penetration Testing · Secure Coding
+- 👨‍💻 &nbsp; Participated in ICPC (International Collegiate Programming Contest) twice.
 - 💬 &nbsp;Open to discussions on pentesting, CTFs, or cybersecurity in general
 
 ---
