@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mahmud </h1>
-<h3 align="center"> Cybersecurity Enthusiast · Red Teamer in Training · CTF Player</h3>
+<h3 align="center"> .NET Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MahmudAze&color=green&style=plastic" alt="MahmudAze" />
@@ -23,6 +23,7 @@
 
 ### About
 
+.NET Developer interested in creating.
 Penetration tester and red team learner focused on offensive security.
 I secure code before attackers do.
 
